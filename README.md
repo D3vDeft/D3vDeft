@@ -129,9 +129,9 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.codewars.com/users/denis.clf"><img width="50%" src="https://github.r2v.ch/codewars?user=denis.clf?hide_clan=true&&top_languages=true&theme=gradient"/></a>
 <br>
-<a href="https://github.com/d3vdeft"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vdeft&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&hide_title=true"></a>
+<!-- <a href="https://github.com/d3vdeft"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vdeft&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&hide_title=true"></a>
 <a href="https://github.com/d3vdeft"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=d3vdeft&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&hide_title=true"></a>
-
+ -->
 
 <!--[![GitHub Stats – Dark](https://github-readme-stats.vercel.app/api?username=d3vdeft&theme=dark#gh-dark-mode-only)](https://github.com/d3vdeft#gh-dark-mode-only)-->
 <!--[![GitHub Stats – Light](https://github-readme-stats.vercel.app/api?username=d3vdeft&theme=default#gh-light-mode-only)](https://github.com/d3vdeft#gh-light-mode-only)-->

@@ -3,7 +3,7 @@ D3vDeft/D3vDeft is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <p align="right">
-  
+  <img src="https://komarev.com/ghpvc/?username=D3vDeft&label=Views&color=red&style=flat-square" alt="D3vDeft" />
 </p>
 
 <p align="center">

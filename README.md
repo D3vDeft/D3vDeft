@@ -3,11 +3,11 @@ D3vDeft/D3vDeft is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <p align="right">
-<img width="722" height="230" alt="Captura desde 2026-02-03 13-34-17" src="https://github.com/user-attachments/assets/6aa9eea2-ce69-4825-8685-55347b1e2051" />
+  
 </p>
 
 <p align="center">
-  <img width="1920" height="756" alt="191shots_so" src="https://github.com/user-attachments/assets/a0abbabe-4375-4ee6-bfaf-da1de9e4a938" />
+  <img width="722" height="230" alt="User name" src="https://github.com/user-attachments/assets/8c71fb53-79f7-410f-be8c-78daa0441471" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Denis Carlos Cabrera</h1>

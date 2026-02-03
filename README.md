@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
   <img width="722" height="230" alt="User name" src="https://github.com/user-attachments/assets/8c71fb53-79f7-410f-be8c-78daa0441471" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Denis Carlos Cabrera</h1>
 <div style="font-size: 60px; text-align: center; padding-bottom: 30px">
   <details>
     <summary>

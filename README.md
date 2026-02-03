@@ -9,11 +9,12 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img width="722" height="230" alt="User name" src="https://github.com/user-attachments/assets/8c71fb53-79f7-410f-be8c-78daa0441471" />
 </p>
+<h3 align="center">A simple backend developer</h3>
 
 <div style="font-size: 60px; text-align: center; padding-bottom: 30px">
   <details>
     <summary>
-      <h3>A simple backend developer from Spain</h3>
+      Tags
     </summary>
     <table>
     <tr>
@@ -62,41 +63,36 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <h3>About me:</h3>
 
-<details>
-  <summary>
-ES:
-  </summary>
-<p>
-  Mi pasión por este mundo de la tecnología y la comprensión
+<p>ES:</p>
+
+> Mi pasión por este mundo de la tecnología y la comprensión
   de su funcionamiento me lleva a la realización de un trabajo
   que mejore el desempeño interno de las aplicaciones, para
   un resultado final optimizado y de mayor calidad.
-
   Más alla de esto, no solo intento adaptarme a este mundo,
   tambien trato de aportar mi grano de arena. Por eso, he decidido
   involucrarme en diferentes proyectos de voluntariado de la Union Europea.
   Esto no solo me ha permitido ofecer mi ayuda en diversas causas 
   como la integración social, la educación y el apoyo a comunidades vulnerables,
   sino tambien crecer como persona.
-  </p>
-</details>
+  
 <details>
   <summary>
     EN:
+    <p></p>
   </summary>
-<p>
-  My passion for the world of technology and understanding
+
+>  My passion for the world of technology and understanding
   how it works leads me to carry out work
   that improves the internal performance of applications, for
-  an optimised, higher-quality end result.
-  
+  an optimised, higher-quality end result.  
   Beyond this, I not only try to adapt to this world,
   but I also try to do my bit. That is why I have decided
   to get involved in various European Union volunteer projects.
   This has not only allowed me to offer my help in various causes 
   such as social integration, education and support for vulnerable communities,
   but also to grow as a person.
-</p>
+  
 </details>
 
 <h3 align="left">Languages and Tools:</h3>
